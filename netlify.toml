@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://david-clark.netlify.app"
+  to = "https://dclark.io"
+  status = 301
+  force = true
