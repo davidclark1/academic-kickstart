@@ -66,8 +66,8 @@ highlight_name: false
 - Researchers
 - Visitors -->
 ---
-I am a graduate student at Columbia University, co-advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) within the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/).
+I'm a graduate student at Columbia University, co-advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
 
-My research leverages tools from math, physics, and computer science to understand complex biological and artificial neural systems. I'm particularly interested in how these systems represent multiple pieces of information simultaneously, as well as how we can decipher these high-dimensional representations as revealed by *in-vivo* neural data.
+I'm interested in using tools from math, physics, and computer science to understand how biological and artificial neural systems function and learn.
 
 Prior to graduate school, I worked with Kristofer Bouchard in the [Neural Systems and Data Science Lab](https://bouchardlab.lbl.gov/) at Lawrence Berkeley National Laboratory.
