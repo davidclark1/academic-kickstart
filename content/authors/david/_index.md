@@ -18,8 +18,8 @@ bio:
 
 interests:
 - Theoretical neuroscience
-- Computational modeling
 - Machine learning
+- Computational modeling
 
 education:
   courses:
@@ -66,8 +66,8 @@ highlight_name: false
 - Researchers
 - Visitors -->
 ---
-I'm a graduate student at Columbia University, co-advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
+I am a neuroscience graduate student at Columbia University, co-advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
 
-I'm interested in using tools from math, physics, and computer science to understand how biological and artificial neural systems function and learn.
+Using tools from math, physics, and computer science, I aim to understand how biological and artificial neural systems function and learn.
 
 Prior to graduate school, I worked with Kristofer Bouchard in the [Neural Systems and Data Science Lab](https://bouchardlab.lbl.gov/) at Lawrence Berkeley National Laboratory.
