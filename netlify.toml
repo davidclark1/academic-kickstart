@@ -26,7 +26,13 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://david-clark.netlify.app"
-  to = "https://dclark.io"
+  from = "https://david-clark.netlify.app/*"
+  to = "https://dclark.io/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://dclark.io/author/david-g.-clark/"
+  to = "https://dclark.io/"
   status = 301
   force = true
