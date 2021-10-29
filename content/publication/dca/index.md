@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Unsupervised discovery of temporal structure in noisy data with dynamical components analysis"
-authors: [David Clark, Jesse Livezey, Kristofer Bouchard]
+authors: [david, Jesse Livezey, Kristofer Bouchard]
 date: 2019-12-05
 doi: ""
 
