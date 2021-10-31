@@ -31,8 +31,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 #links:
-#- name: PDF
-#  url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
+#- name: Announcement & Video
+#  url: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
 
 url_pdf: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
 url_code: https://github.com/davidclark1/OlfactoryLandmarksNeuron
@@ -41,7 +41,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
