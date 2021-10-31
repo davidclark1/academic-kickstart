@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Neuromorphic Kalman filter implementation in IBM's TrueNorth"
-authors: [Rebecca Carney, Kris Bouchard, Paolo Calafiura, david, David Donofrio, Maurice Garcia-Sciveres, Jesse Livezey]
+authors: [Rebecca Carney, Kristofer Bouchard, Paolo Calafiura, david, David Donofrio, Maurice Garcia-Sciveres, Jesse Livezey]
 date: 2017-10-01
 doi: ""
 
