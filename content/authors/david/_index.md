@@ -6,11 +6,11 @@ title: David G. Clark
 superuser: true
 
 # Role/position
-role: Graduate Student in Neurobiology & Behavior
+role: "dgc2138@cumc.columbia.edu"
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: "Graduate Student in Neurobiology & Behavior @ Columbia University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -36,9 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:dgc2138@cumc.columbia.edu
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:dgc2138@cumc.columbia.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/d_g_clark

@@ -34,10 +34,11 @@ featured: false
 #- name: Announcement & Video
 #  url: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
 
+
 url_pdf: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
 url_code: https://github.com/davidclark1/OlfactoryLandmarksNeuron
 url_dataset:
-url_poster: 
+url_poster:
 url_project:
 url_slides:
 url_source:
