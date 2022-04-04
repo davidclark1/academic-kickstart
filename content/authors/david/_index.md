@@ -66,7 +66,7 @@ highlight_name: true
 - Researchers
 - Visitors -->
 ---
-I am a neuroscience graduate student at Columbia University, advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
+I am a neuroscience PhD candidate at Columbia University advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd) and [Richard Axel](https://www.axellab.columbia.edu/). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
 
 Using tools from math, physics, and computer science, I aim to understand how biological and artificial neural circuits function and learn.
 
