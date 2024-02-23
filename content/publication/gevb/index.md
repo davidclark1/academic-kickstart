@@ -30,20 +30,20 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2106.04089
+- name: Code
+  url: https://github.com/davidclark1/VectorizedNets
 
-url_pdf: https://arxiv.org/abs/2106.04089
-url_code: https://github.com/davidclark1/VectorizedNets
+url_pdf:
 url_dataset:
 url_poster: 
 url_project:
 url_slides:
 url_source:
 url_video:
+url_code:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

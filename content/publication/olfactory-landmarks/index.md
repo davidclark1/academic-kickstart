@@ -35,7 +35,7 @@ featured: false
 #  url: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
 
 
-url_pdf: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
+url_pdf: /media/fischler-ruiz-neuron-2021.pdf
 url_code: https://github.com/davidclark1/OlfactoryLandmarksNeuron
 url_dataset:
 url_poster:

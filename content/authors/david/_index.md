@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Theoretical neuroscience
-- Machine learning
-- Computational modeling
+#interests:
+#- Theoretical neuroscience
+#- Machine learning
+#- Computational modeling
 
 education:
   courses:
@@ -66,6 +66,8 @@ highlight_name: true
 - Researchers
 - Visitors -->
 ---
-I am a neuroscience PhD candidate at Columbia University, primarily advised by [Larry Abbott](https://zuckermaninstitute.columbia.edu/larry-f-abbott-phd). I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
+I am a neuroscience PhD candidate at Columbia University, primarily advised by Larry Abbott. I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
 
-Using tools from physics and computer science, I aim to understand how biological and artificial neural circuits function and learn.
+A few features of neural circuits that make them hard to understand are that 1) there are a lot of neurons, 2) neurons are nonlinear, 3) neurons engage in complex recurrent dynamics, and 4) connections between neurons change on a variety of timescales. Somehow, these features underlie computation and learning. A major problem is to understand how this works. My research approaches this problem using tools from statistical physics and machine learning.
+
+My publications are listed below, or see [Google Scholar](https://scholar.google.com/citations?user=4Fxo16MAAAAJ).

@@ -3,7 +3,7 @@
 
 title: "Theory of coupled neuronal-synaptic dynamics"
 authors: [david, L.F. Abbott]
-date: 2023-02-20
+date: 2024-01-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "Physical Review X (accepted)"
 publication_short: ""
 
-abstract: "In neural circuits, synapses influence neurons by shaping network dynamics, and neurons influence synapses through activity-dependent plasticity. Motivated by this fact, we study a network model in which neurons and synapses are mutually coupled dynamic variables. Model neurons obey dynamics shaped by synaptic couplings that fluctuate, in turn, about quenched random strengths in response to pre- and postsynaptic neuronal activity. Using dynamical mean-field theory, we compute the phase diagram of the combined neuronal-synaptic system, revealing several novel phases suggestive of computational function. In the regime in which the non-plastic system is chaotic, Hebbian plasticity slows chaos, while anti-Hebbian plasticity quickens chaos and generates an oscillatory component in neuronal activity. Deriving the spectrum of the joint neuronal-synaptic Jacobian reveals that these behaviors manifest as differential effects of eigenvalue repulsion. In the regime in which the non-plastic system is quiescent, Hebbian plasticity can induce chaos. In both regimes, sufficiently strong Hebbian plasticity creates exponentially many stable neuronal-synaptic fixed points that coexist with chaotic states. Finally, in chaotic states with sufficiently strong Hebbian plasticity, halting synaptic dynamics leaves a stable fixed point of neuronal dynamics, freezing the neuronal state. This phase of freezable chaos provides a novel mechanism of synaptic working memory in which a stable fixed point of neuronal dynamics is continuously destabilized through synaptic dynamics, allowing any neuronal state to be stored as a stable fixed point by halting synaptic plasticity."
+abstract: "In neural circuits, synaptic strengths influence neuronal activity by shaping network dynamics, and neuronal activity influences synaptic strengths through activity-dependent plasticity. Motivated by this fact, we study a recurrent-network model in which neuronal units and synaptic couplings are interacting dynamic variables, with couplings subject to Hebbian modification with decay around quenched random strengths. Rather than assigning a specific role to the plasticity, we use dynamical mean-field theory and other techniques to systematically characterize the neuronal-synaptic dynamics, revealing a rich phase diagram. Adding Hebbian plasticity slows activity in already chaotic networks and can induce chaos in otherwise quiescent networks. Anti-Hebbian plasticity quickens activity and produces an oscillatory component. Analysis of the Jacobian shows that Hebbian and anti-Hebbian plasticity push locally unstable modes toward the real and imaginary axes, respectively, explaining these behaviors. Both random-matrix and Lyapunov analysis show that strong Hebbian plasticity segregates network timescales into two bands, with a slow, synapse-dominated band driving the dynamics, suggesting a flipped view of the network as synapses connected by neurons. For increasing strength, Hebbian plasticity initially raises the complexity of the dynamics, measured by the maximum Lyapunov exponent and attractor dimension, but then decreases these metrics, likely due to the proliferation of stable fixed points. We compute the marginally stable spectra of such fixed points as well as their number, showing exponential growth with network size. Finally, in chaotic states with strong Hebbian plasticity, a stable fixed point of neuronal dynamics is destabilized by synaptic dynamics, allowing any neuronal state to be stored as a stable fixed point by halting the plasticity. This phase of freezable chaos offers a new mechanism for working memory."
 
 # Summary. An optional shortened abstract.
 summary: "We study a network model in which neurons and synapses are mutually coupled dynamic variables. "
@@ -29,13 +29,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2302.08985
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2302.08985
+url_pdf: 
 url_code: 
 url_dataset:
 url_poster: 

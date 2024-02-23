@@ -30,20 +30,22 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1905.09944
+- name: Code
+  url: https://github.com/BouchardLab/DynamicalComponentsAnalysis
 
-url_pdf: https://arxiv.org/abs/1905.09944
-url_code: https://github.com/BouchardLab/DynamicalComponentsAnalysis
+url_pdf:
+url_code:
 url_dataset:
-url_poster: https://github.com/BouchardLab/DynamicalComponentsAnalysis/blob/master/NeuripsPoster.pdf
+url_poster:
 url_project:
 url_slides:
 url_source:
 url_video:
+
+#  https://github.com/BouchardLab/DynamicalComponentsAnalysis/blob/master/NeuripsPoster.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

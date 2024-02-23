@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#- name: PDF
-#  url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
+links:
+- name: PDF
+  url: /media/carney-jop-2017.pdf
 
-url_pdf: https://iopscience.iop.org/article/10.1088/1742-6596/898/4/042021
+url_pdf:
 url_code:
 url_dataset:
 url_poster: 

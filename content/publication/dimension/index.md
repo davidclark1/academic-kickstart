@@ -3,7 +3,7 @@
 
 title: "Dimension of activity in random neural networks"
 authors: [david, L.F. Abbott, Ashok Litwin-Kumar]
-date: 2022-06-25
+date: 2023-09-11
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "Physical Review Letters"
 publication_short: ""
 
-abstract: "Neural networks are high-dimensional nonlinear dynamical systems that process information through the coordinated activity of many interconnected units. Understanding how biological and machine-learning networks function and learn requires knowledge of the structure of this coordinated activity, information contained in cross-covariances between units. Although dynamical mean field theory (DMFT) has elucidated several features of random neural networks -- in particular, that they can generate chaotic activity -- existing DMFT approaches do not support the calculation of cross-covariances. We solve this longstanding problem by extending the DMFT approach via a two-site cavity method. This reveals, for the first time, several spatial and temporal features of activity coordination, including the effective dimension, defined as the participation ratio of the spectrum of the covariance matrix. Our results provide a general analytical framework for studying the structure of collective activity in random neural networks and, more broadly, in high-dimensional nonlinear dynamical systems with quenched disorder. "
+abstract: "Neural networks are high-dimensional nonlinear dynamical systems that process information through the coordinated activity of many connected units. Understanding how biological and machine-learning networks function and learn requires knowledge of the structure of this coordinated activity, information contained, for example, in cross covariances between units. Self-consistent dynamical mean field theory (DMFT) has elucidated several features of random neural networks—in particular, that they can generate chaotic activity—however, a calculation of cross covariances using this approach has not been provided. Here, we calculate cross covariances self-consistently via a two-site cavity DMFT. We use this theory to probe spatiotemporal features of activity coordination in a classic random-network model with independent and identically distributed (i.i.d.) couplings, showing an extensive but fractionally low effective dimension of activity and a long population-level timescale. Our formulas apply to a wide range of single-unit dynamics and generalize to non-i.i.d. couplings. As an example of the latter, we analyze the case of partially symmetric couplings."
 
 # Summary. An optional shortened abstract.
 summary: "We derive the structure of time-lagged cross-covariances between neurons in nonlinear recurrent neural networks with random synaptic couplings."
@@ -29,13 +29,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2207.12373
 
-url_pdf: https://arxiv.org/abs/2207.12373
+url_pdf: /media/clark-prl-2023.pdf
 url_code: 
 url_dataset:
 url_poster: 
