@@ -68,6 +68,6 @@ highlight_name: true
 ---
 I am a neuroscience PhD candidate at Columbia University, primarily advised by Larry Abbott. I work in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/).
 
-A few features of neural circuits that make them hard to understand are that 1) there are a lot of neurons, 2) neurons are nonlinear, 3) neurons engage in complex recurrent dynamics, and 4) connections between neurons change on a variety of timescales. Somehow, these features underlie computation and learning. A major problem is to understand how this works. My research approaches this problem using tools from statistical physics and machine learning.
+Some characteristic features of neural circuits are 1) there are a lot of neurons, 2) neurons are nonlinear, 3) neurons engage in complex recurrent dynamics, and 4) connections between neurons change on a variety of timescales. In addition to making neural circuits hard to understand, these features underlie computation and learning. A major challenge is to understand how this works. My research approaches this challenge using tools from statistical physics and machine learning.
 
 My publications are listed below, or see [Google Scholar](https://scholar.google.com/citations?user=4Fxo16MAAAAJ).
