@@ -33,6 +33,8 @@ featured: false
 links:
 - name: PDF
   url: /media/carney-jop-2017.pdf
+- name: Journal
+  url: https://iopscience.iop.org/article/10.1088/1742-6596/898/4/042021
 
 url_pdf:
 url_code:

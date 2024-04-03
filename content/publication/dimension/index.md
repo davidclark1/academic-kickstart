@@ -30,6 +30,9 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Journal
+  url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.118401
+  
 - name: arXiv
   url: https://arxiv.org/abs/2207.12373
 

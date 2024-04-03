@@ -33,16 +33,22 @@ featured: false
 #links:
 #- name: Announcement & Video
 #  url: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
-
+links:
+- name: Journal
+  url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00728-5
+- name: Code
+  url: https://github.com/davidclark1/OlfactoryLandmarksNeuron
+- name: Video
+  url: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
 
 url_pdf: /media/fischler-ruiz-neuron-2021.pdf
-url_code: https://github.com/davidclark1/OlfactoryLandmarksNeuron
+url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://zuckermaninstitute.columbia.edu/how-brain-perceives-landmarks
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
