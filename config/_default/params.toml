@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "Ocean"
+theme = ""
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -181,7 +181,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
@@ -191,6 +191,7 @@ plugins_js  = []
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
+
 
 # Configuration of project pages.
 [projects]
@@ -214,7 +215,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
