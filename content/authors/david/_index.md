@@ -6,11 +6,11 @@ title: David G. Clark
 superuser: true
 
 # Role/position
-role: "dgc2138@cumc.columbia.edu"
+role: "dgclark@fas.harvard.edu"
 
 # Organizations/Affiliations
 organizations:
-- name: "Graduate Student in Neurobiology and Behavior at Columbia University"
+- name: "Research Fellow, Kempner Institute at Harvard University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,27 +62,34 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-<!-- user_groups:
-- Researchers
-- Visitors -->
+# <!-- user_groups:
+# - Researchers
+# - Visitors -->
 ---
-I am a theoretical neuroscientist and PhD candidate at Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), primarily advised by Larry Abbott.
-
-<span style="color:magenta">**Update:**</span>
-Starting Fall 2025, I will be a research fellow at the [Kempner Institute](https://kempnerinstitute.harvard.edu/) at Harvard University. Please get in touch if you would like to collaborate!
+I am a theoretical neuroscientist and research fellow at the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.  
 
 Neural circuits are characterized by their large scale, nonlinear dynamics, complex recurrent interactions, and connections that change across multiple timescales. I use tools from statistical physics and machine learning to understand how these features enable computation and learning.
 
+I earned my Ph.D. in Neurobiology and Behavior from Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I was primarily advised by Larry Abbott and worked closely with Ashok Litwin-Kumar and Haim Sompolinsky. Before that, I studied physics and computer science at UC Berkeley.  
+
+
+<!-- 
+<span style="color:magenta">**Update:**</span>
+Starting Fall 2025, I will be a 
+
+ Please get in touch if you would like to collaborate!
+ -->
+
 My publications are listed below, or see [Google Scholar](https://scholar.google.com/citations?user=4Fxo16MAAAAJ).
 
-Outside of science, I see a lot of Broadway and enjoy juggling. 
+Outside of science, I see a lot of Broadway.
 
 ## Social
 * [Bluesky](https://bsky.app/profile/david-g-clark.bsky.social)
 * [Twitter](https://twitter.com/d_g_clark) (deprecated)
 
-## Education
+<!-- ## Education
 * **PhD in Neurobiology and Behavior**  
-  Columbia University, 2019-Present
+  Columbia University, 2019-2025
 * **BA in Physics, Computer Science**  
-  UC Berkeley, 2017
+  UC Berkeley, 2017 -->
