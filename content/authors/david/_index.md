@@ -66,7 +66,7 @@ highlight_name: true
 # - Researchers
 # - Visitors -->
 ---
-I am a theoretical neuroscientist and research fellow at the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.  
+I am a **theoretical neuroscientist** and research fellow at the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.  
 
 Neural circuits are characterized by their large scale, nonlinear dynamics, complex recurrent interactions, and connections that change across multiple timescales. I use tools from statistical physics and machine learning to understand how these features enable computation and learning.
 
