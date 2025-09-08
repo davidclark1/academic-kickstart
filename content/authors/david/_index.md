@@ -80,7 +80,7 @@ Starting Fall 2025, I will be a
  Please get in touch if you would like to collaborate!
  -->
 
-My publications are listed below, or see [Google Scholar](https://scholar.google.com/citations?user=4Fxo16MAAAAJ).
+My publications are listed below, or see [Google Scholar](https://scholar.google.com/citations?user=4Fxo16MAAAAJ). My CV is [here](/media/David_G_Clark_CV.pdf).
 
 Outside of science, I see a lot of Broadway.
 
