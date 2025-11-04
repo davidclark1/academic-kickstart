@@ -3,7 +3,7 @@
 
 title: "Simplified derivations for high-dimensional convex learning problems"
 authors: [david, Haim Sompolinsky]
-date: 2024-12-02
+date: 2025-10-23
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "SciPost Physics Lecture Notes"
 publication_short: ""
 
-abstract: "Statistical physics provides tools for analyzing high-dimensional problems in machine learning and theoretical neuroscience. These calculations, particularly those using the replica method, often involve lengthy derivations that can obscure physical interpretation. We give concise, non-replica derivations of several key results and highlight their underlying similarities. Specifically, we introduce a cavity approach to analyzing high-dimensional learning problems and apply it to three cases: perceptron classification of points, perceptron classification of manifolds, and kernel ridge regression. These problems share a common structure -- a bipartite system of interacting feature and datum variables -- enabling a unified analysis. For perceptron-capacity problems, we identify a symmetry that allows derivation of correct capacities through a naïve method. These results match those obtained through the replica method."
+abstract: "Statistical-physics calculations in machine learning and theoretical neuroscience often involve lengthy derivations that obscure physical interpretation. Here, we give concise, non-replica derivations of several key results and highlight their underlying similarities. In particular, using a cavity approach, we analyze three high-dimensional learning problems: perceptron classification of points, perceptron classification of manifolds, and kernel ridge regression. These problems share a common structure—a bipartite system of interacting feature and datum variables—enabling a unified analysis. Furthermore, for perceptron-capacity problems, we identify a symmetry that allows derivation of correct capacities through a naïve method."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,11 +30,11 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-
+- name: Journal
+  url: https://scipost.org/SciPostPhysLectNotes.105
 - name: arXiv
   url: https://arxiv.org/abs/2412.01110
-
-url_pdf:
+url_pdf: /media/clark-sompolinsky-2025.pdf
 url_code: 
 url_dataset:
 url_poster: 
