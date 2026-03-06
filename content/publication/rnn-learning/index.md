@@ -3,6 +3,11 @@
 
 title: "Structure, disorder, and dynamics in task-trained recurrent neural circuits"
 authors: [david, Blake Bordelon, Jacob Zavatone-Veth, Cengiz Pehlevan]
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- ""
 date: 2026-03-03
 doi: ""
 
@@ -32,18 +37,17 @@ featured: false
 links:
 - name: bioR𝛘iv
   url: https://www.biorxiv.org/content/10.64898/2026.03.02.708943
-#   icon_pack: fab
-#   icon: twitter
+- name: Code
+  url: https://github.com/davidclark1/RNN-Learning-Theory
 
-url_pdf: 
+url_pdf:
 url_dataset:
-url_poster: 
+url_poster:
 url_project:
 url_slides:
 url_source:
 url_video:
-
-url_code: https://github.com/davidclark1/RNN-Learning-Theory
+url_code:
 
 
 # Featured image

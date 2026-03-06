@@ -3,6 +3,10 @@
 
 title: "Unsupervised discovery of temporal structure in noisy data with dynamical components analysis"
 authors: [david, Jesse Livezey, Kristofer Bouchard]
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- ""
 date: 2019-12-05
 doi: ""
 
