@@ -39,6 +39,8 @@ links:
   url: https://www.biorxiv.org/content/10.64898/2026.03.02.708943
 - name: Code
   url: https://github.com/davidclark1/RNN-Learning-Theory
+- name: Kempner Blog Post
+  url: https://kempnerinstitute.harvard.edu/research/deeper-learning/structure-disorder-and-dynamics-in-task-trained-recurrent-neural-circuits/
 
 url_pdf:
 url_dataset:
