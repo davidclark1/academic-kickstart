@@ -68,7 +68,7 @@ highlight_name: true
 ---
 I am a **theoretical neuroscientist** and research fellow at the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.  
 
-A general theory of neural circuits must link three tightly coupled elements: synaptic connectivity, large-scale neuronal activity, and the tasks these circuits perform. I develop theories relating these elements using methods from machine learning and statistical physics, which naturally accommodates the disorder ubiquitous in large neural circuits. **A unifying goal is to connect high-dimensional nonlinear network models to the complex, heterogeneous data that modern experiments produce.**
+A general theory of neural circuits must link three tightly coupled elements: synaptic connectivity, large-scale neuronal activity, and the tasks these circuits perform. I develop theories relating these elements using a combination of statistical physics, which naturally accommodates the disorder ubiquitous in large neural circuits, and machine learning. **A unifying goal is to connect high-dimensional nonlinear network models to the complex, heterogeneous data that modern experiments produce.**
 
 I earned my Ph.D. in Neurobiology and Behavior from Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I was primarily advised by Larry Abbott and worked closely with Ashok Litwin-Kumar and Haim Sompolinsky. Before that, I studied physics and computer science at UC Berkeley.  
 
