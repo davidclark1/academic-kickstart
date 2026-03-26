@@ -68,7 +68,11 @@ highlight_name: true
 ---
 I am a **theoretical neuroscientist** and research fellow at the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/) at Harvard University.  
 
-Neural circuits are characterized by their large scale, nonlinear dynamics, complex recurrent interactions, and connections that change across multiple timescales. I use tools from statistical physics and machine learning to understand how these features enable computation and learning.
+A general theory of neural circuits must link three deeply coupled elements: synaptic connectivity, large-scale neuronal activity, and the tasks these circuits must perform. I develop theories relating these elements using methods from machine learning and statistical physics.
+
+A common theme is the rich role of disorder present in large neural circuits; I draw on tools from the physics of disordered systems, treating this heterogeneity as a central ingredient rather than a nuisance.
+
+**A unifying goal is to connect high-dimensional nonlinear network models to the complex, heterogeneous data that modern experiments produce.**
 
 I earned my Ph.D. in Neurobiology and Behavior from Columbia University in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), where I was primarily advised by Larry Abbott and worked closely with Ashok Litwin-Kumar and Haim Sompolinsky. Before that, I studied physics and computer science at UC Berkeley.  
 
