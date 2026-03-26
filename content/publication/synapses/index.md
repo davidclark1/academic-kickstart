@@ -40,8 +40,11 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2302.08985
 
+- name: Code
+  url: https://github.com/davidclark1/Neuronal-Synaptic-Dynamics
+
 url_pdf: /media/clark-prx-2024.pdf
-url_code: 
+url_code:
 url_dataset:
 url_poster: 
 url_project:
